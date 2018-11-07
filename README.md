@@ -9,3 +9,4 @@ Reproduction steps:
 - try changing `app.vue`
 - observe stack overflow error in DevTools
 
+![Issue GIF](issue.gif)
